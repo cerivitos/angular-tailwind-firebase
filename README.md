@@ -1,6 +1,14 @@
-# Angular-Tailwind-Firebase Template
+ <p align="center">🔥🔥🔥</p>
+ <h1 align="center">Angular-Tailwind-Firebase Starter Template</h1>
 
-This is a starter template with my commonly used dependencies for building web apps with Angular v13.
+
+###
+
+
+
+This is a starter template with my commonly used dependencies for building web apps with Angular v13.    
+
+
 
 ## Tailwind
 
@@ -54,7 +62,7 @@ Remember to include your [unique App Check key](https://firebase.google.com/docs
 
 I usually use [Vercel](https://vercel.com) for hosting. Vercel allows you to create serverless functions simply by creating an exported function in the `/api` folder. For example, this function will return 'Hello World!' at the end point `https://your-app.vercel.app/api/query` when hosted on Vercel.
 
-<b>api/query.ts</b>
+**api/query.ts**
 ```
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
